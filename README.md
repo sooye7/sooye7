@@ -2,9 +2,11 @@
 
 <h3 align="center"><b>👩‍💻About Me👩‍💻</b></h3>
 
+<div align="center">
  - 💻   **I majored in Computer Science**   
  - 📮  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sooye7@gmail.com)](mailto:sooye7@gmail.com)
 - 📒  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://sooye7.tistory.com/)](https://sooye7.tistory.com/)
+ </div>
 
 <h3 align="center"><b>✨Techs that I've used at least once✨</b></h3>
 
