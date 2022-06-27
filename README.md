@@ -4,7 +4,7 @@
 
 <div align="center">
  
-💻   **I majored in Computer Science**   
+💻   **I'm majoring in Computer Science**   
 📮  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sooye7@gmail.com)](mailto:sooye7@gmail.com)
  📒  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://sooye7.tistory.com/)](https://sooye7.tistory.com/)
  
