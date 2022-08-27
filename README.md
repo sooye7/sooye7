@@ -1,4 +1,5 @@
-<h2 align="center"><b>Hi I'm SooYe☺️</b></h2>
+//<h2 align="center"><b>Hi I'm SooYe☺️</b></h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=FAFAD2&height=300&section=header&text=Hi%20I'm%20SooYe☺️&fontSize=80)
 
 <h3 align="center"><b>👩‍💻About Me👩‍💻</b></h3>
 
@@ -10,7 +11,11 @@
  
  </div>
 
+
+
 <h3 align="center"><b>✨Techs that I've used at least once✨</b></h3>
+
+
 
 <div align="center">
  
