@@ -6,7 +6,7 @@
 
 <div align="center">
  
-<h3 align="center"><b>💻I'm majoring in Computer Science</b></h3>
+💻   **I'm majoring in Computer Science** 
  <br>
  👩‍💻  [![Notion Badge](https://img.shields.io/badge/Profile-000000?style=flat-square&logo=Notion&logoColor=white&link=https://simple-verdict-6a3.notion.site/53d9a107b62345468620c245343fe4e1)](https://simple-verdict-6a3.notion.site/53d9a107b62345468620c245343fe4e1)
 📮  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sooye7@gmail.com)](mailto:sooye7@gmail.com)
