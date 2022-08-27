@@ -1,9 +1,8 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=FAFAD2&align="center"&height=300&section=header&text=Hi%20I'm%20SooYe&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FAFAD2&align="center"&height=300&section=header&text=SooYe☺️&fontSize=80)
 
 <h2 align="center"><b>Hi I'm SooYe☺️</b></h2>
 
-<h3 align="center"><b>👩‍💻About Me👩‍💻</b></h3>
+<h2 align="center"><b>👩‍💻About Me👩‍💻</b></h2>
 
 <div align="center">
  
@@ -13,8 +12,12 @@
  
  </div>
 
-
-
+<br>
+<br>
+<br>
+<div align="center">
+<h2 align="center"><b>📚 Tech Stack</b></h2>
+</div>
 <h3 align="center"><b>✨Techs that I've used at least once✨</b></h3>
 
 
